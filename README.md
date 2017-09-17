@@ -1,4 +1,4 @@
-#reNamer: A tool for regex based file renaming.
+# reNamer: A tool for regex based file renaming.
 
 ## License
 
